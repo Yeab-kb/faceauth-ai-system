@@ -7,7 +7,7 @@ converts them into:
 Then saves X and y to disk so train.py can load them directly.
 
 How to run:
-    python src/feature_engineering.py
+    python src/feature_engineering.py 
 
 Requirements:
     pip install numpy scikit-learn opencv-python
